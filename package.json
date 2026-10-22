@@ -9,7 +9,7 @@
   "scripts": {
     "start": "electron .",
     "check": "node --check main.js && node --check preload.js && node --check src/renderer.js",
-    "dist": "electron-builder --win nsis zip",
+    "dist": "electron-builder --win nsis zip --publish never",
     "dist:dir": "electron-builder --win dir"
   },
   "dependencies": {
