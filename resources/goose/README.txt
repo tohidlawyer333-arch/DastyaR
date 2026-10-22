@@ -1,0 +1,1 @@
+This folder is populated by .github/workflows/windows.yml during a CI build. Do not commit goose.exe. The workflow downloads Goose CLI v1.55.0 from the official repository and verifies SHA-256 before packaging.

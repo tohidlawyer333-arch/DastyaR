@@ -1,0 +1,7 @@
+node_modules/
+dist/
+.work/
+resources/goose/goose.exe
+resources/goose/LICENSE-GOOSE.txt
+*.log
+.DS_Store
